@@ -1,0 +1,89 @@
+---
+id: swsh2-153
+name: Dubwool V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '210'
+types:
+- Colorless
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+abilities:
+- name: Soft Wool
+  text: This Pokémon takes 30 less damage from attacks (after applying Weakness and
+    Resistance).
+  type: Ability
+attacks:
+- name: Revenge Blast
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 120+
+  text: This attack does 30 more damage for each Prize card your opponent has taken.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh2
+  name: Rebel Clash
+  series: Sword & Shield
+  printedTotal: 192
+  total: 209
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: RCL
+  releaseDate: 2020/05/01
+  updatedAt: 2020/09/25 10:09:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh2/symbol.png
+    logo: https://images.pokemontcg.io/swsh2/logo.png
+number: '153'
+artist: 5ban Graphics
+rarity: Rare Holo V
+nationalPokedexNumbers:
+- 832
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh2/153.png
+  large: https://images.pokemontcg.io/swsh2/153_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh2-153
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.46
+      mid: 0.99
+      high: 5.0
+      market: 0.74
+      directLow: 0.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh2-153
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 1.07
+    lowPrice: 0.3
+    trendPrice: 0.9
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 1.44
+    lowPriceExPlus: 0.4
+    avg1: 1.19
+    avg7: 1.05
+    avg30: 1.11
+    reverseHoloAvg1: 0.95
+    reverseHoloAvg7: 1.32
+    reverseHoloAvg30: 1.56

@@ -1,0 +1,93 @@
+---
+id: swsh2-81
+name: Sandygast
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '80'
+types:
+- Psychic
+evolvesTo:
+- Palossand
+attacks:
+- name: Sneaky Placement
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: ''
+  text: Put 1 damage counter on 1 of your opponent's Pokémon.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh2
+  name: Rebel Clash
+  series: Sword & Shield
+  printedTotal: 192
+  total: 209
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: RCL
+  releaseDate: 2020/05/01
+  updatedAt: 2020/09/25 10:09:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh2/symbol.png
+    logo: https://images.pokemontcg.io/swsh2/logo.png
+number: '81'
+artist: Yuka Morii
+rarity: Common
+flavorText: If you build sand mounds when you're playing, destroy them before you
+  go home, or they may get possessed and become Sandygast.
+nationalPokedexNumbers:
+- 769
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh2/81.png
+  large: https://images.pokemontcg.io/swsh2/81_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh2-81
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.1
+      high: 3.0
+      market: 0.05
+      directLow: 0.05
+    reverseHolofoil:
+      low: 0.07
+      mid: 0.25
+      high: 2.0
+      market: 0.22
+      directLow: 0.18
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh2-81
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.07
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.18
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.2
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.05
+    avg30: 0.05
+    reverseHoloAvg1: 0.24
+    reverseHoloAvg7: 0.19
+    reverseHoloAvg30: 0.23
